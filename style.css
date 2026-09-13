@@ -34,7 +34,7 @@ h3{
 
 .body .res-container{
     padding:20px;
-    border:1px solid black;
+    /* border:1px solid black; */
 }
 
 .res-container .res-card{
@@ -45,4 +45,11 @@ h3{
 .res-container .res-card .res-details{
     display:flex;
     justify-content:space-between;
+}
+
+.res-img{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding-top:10px;
 }
